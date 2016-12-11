@@ -15,3 +15,5 @@ Hierarchical Multiscale Recurrent Neural Networks
 [Bidirectional Attention Flow](https://github.com/allenai/bi-att-flow) 
 
 [CNN/Daily Mail Reading Comprehension Task](https://github.com/danqi/rc-cnn-dailymail)
+
+[PPT. Memory and Attention](http://slides.com/smerity/quora-frontiers-of-memory-and-attention#/3)
