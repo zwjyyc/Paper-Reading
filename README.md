@@ -17,3 +17,7 @@ Hierarchical Multiscale Recurrent Neural Networks
 [CNN/Daily Mail Reading Comprehension Task](https://github.com/danqi/rc-cnn-dailymail)
 
 [PPT. Memory and Attention](http://slides.com/smerity/quora-frontiers-of-memory-and-attention#/3)
+
+Semantic Parsing
+
+[Bootstrapping Semantic Parsers from Conversations](http://homes.cs.washington.edu/~lsz/papers/az-emnlp2011.pdf)
