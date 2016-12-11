@@ -7,3 +7,6 @@ A Convolutional Attention Network for Extreme Summarization of Source Code
 Recurrent Highway Networks
 
 Hierarchical Multiscale Recurrent Neural Networks
+
+Spatially Adaptive Computation Time for Residual Networks
+
