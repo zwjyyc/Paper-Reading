@@ -10,3 +10,8 @@ Hierarchical Multiscale Recurrent Neural Networks
 
 [Spatially Adaptive Computation Time for Residual Networks](https://arxiv.org/pdf/1612.02297v1.pdf)
 
+[Fast Entity Linker Toolkit for training models to link entities to KnowledgeBase (Wikipedia) in documents and queries.](https://github.com/yahoo/FEL)
+
+[Bidirectional Attention Flow](https://github.com/allenai/bi-att-flow) 
+
+[CNN/Daily Mail Reading Comprehension Task](https://github.com/danqi/rc-cnn-dailymail)
