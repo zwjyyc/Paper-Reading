@@ -8,5 +8,5 @@ Recurrent Highway Networks
 
 Hierarchical Multiscale Recurrent Neural Networks
 
-Spatially Adaptive Computation Time for Residual Networks
+[Spatially Adaptive Computation Time for Residual Networks](https://arxiv.org/pdf/1612.02297v1.pdf)
 
