@@ -18,6 +18,14 @@ Hierarchical Multiscale Recurrent Neural Networks
 
 [PPT. Memory and Attention](http://slides.com/smerity/quora-frontiers-of-memory-and-attention#/3)
 
+Architectural Complexity Measures of Recurrent Neural Networks
+
+On Multiplicative Integration with Recurrent Neural Networks
+
+Path-Normalized Optimization of Recurrent Neural Networks with ReLU Activations
+
 Semantic Parsing
 
 [Bootstrapping Semantic Parsers from Conversations](http://homes.cs.washington.edu/~lsz/papers/az-emnlp2011.pdf)
+
+
