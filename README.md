@@ -1,4 +1,8 @@
 # Paper-Reading
+12/12/2016
+[From phonemes to images: levels of representation in a recurrent neural model of visually-grounded language learning](https://arxiv.org/pdf/1610.03342v1.pdf)
+[Semi Supervised Preposition-Sense Disambiguation using Multilingual Data](https://arxiv.org/pdf/1611.08813v1.pdf)
+
 
 11/12/2016
 
